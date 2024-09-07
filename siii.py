@@ -1,0 +1,2 @@
+sam = 'Hello'
+print(sam)
